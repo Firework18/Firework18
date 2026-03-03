@@ -1,21 +1,31 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="Firework18 Banner" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alessandro Del Carpio
+</h1>
 
-## About Me :
+<p align="center">
+  <b>Full Stack Developer | React & Spring Enthusiast</b>
+</p>
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Firework18?style=social" />
+  <img src="https://img.shields.io/github/stars/Firework18?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Firework18" />
+</p>
 
-<br>
+---
 
+## About Me 🚀
+
+- 🎓 Systems Engineering student
+- 💻 Passionate about building web applications
+- ⚛️ Focused on **React, Java & Spring**
+- 🌱 Always learning and improving every day
+- 🏡 Lives in `127.0.0.1`
+- ⚡ Fun facts: 🍕 🎮 🎬 🚀
 ## Connect with me ☕ :
 
 <br>
@@ -28,12 +38,24 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<!-- Frontend -->
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/office/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+<!-- Backend -->
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<!-- Database -->
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
+<!-- Package Manager -->
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
@@ -42,23 +64,29 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Firework18&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Firework18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
+
+[![Firework18 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
 
 <br>
 
-## GitHub Thropies 🏆 :
+## GitHub Trophies 🏆
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Firework18)](https://github.com/Firework18/github-profile-trophy)
 
 <br>
 
-## Activity Graph 📊 :
+## Activity Graph 📊
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Firework18's github activity graph](https://activity-graph.herokuapp.com/graph?username=Firework18&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
