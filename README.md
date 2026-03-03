@@ -57,7 +57,6 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Firework18)](https://github.com/Firework18/github-profile-trophy)
 
 <br>
 
@@ -65,7 +64,6 @@
 
 <br>
 
-[![Firework18's github activity graph](https://activity-graph.herokuapp.com/graph?username=Firework18&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
