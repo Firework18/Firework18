@@ -43,10 +43,8 @@
 <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <!-- Backend -->
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 
 <!-- Database -->
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
