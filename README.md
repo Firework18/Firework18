@@ -1,7 +1,3 @@
-<div align="center" width="50">
-    <img alt="Firework18 Banner" src="./assets/oh hi there.png" width="300"/>
-</div>
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alessandro Del Carpio
 </h1>
@@ -26,13 +22,7 @@
 - 🌱 Always learning and improving every day
 - 🏡 Lives in `127.0.0.1`
 - ⚡ Fun facts: 🍕 🎮 🎬 🚀
-## Connect with me ☕ :
 
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
 
 ## What I am Good at 🧑‍💻 :
 
@@ -60,11 +50,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Firework18&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Firework18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
-
-[![Firework18 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Firework18&theme=algolia)](https://github.com/Firework18/github-readme-stats)
 
 <br>
 
@@ -86,4 +71,4 @@
 
 Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
-Last edited on: 30/06/2022
+Last edited on: 3/03/2026
