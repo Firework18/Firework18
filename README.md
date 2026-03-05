@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer | React & Spring Enthusiast</b>
+  <b>Front-End React Developer | React & Spring Enthusiast</b>
 </p>
 
 <p align="center">
