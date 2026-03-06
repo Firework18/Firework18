@@ -40,17 +40,22 @@
 <br>
 
 <!-- Frontend -->
+
+### Frontend
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <!-- Backend -->
+### Backend
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 
 <!-- Database -->
+### Database
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 <!-- Package Manager -->
+### Package Manager
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
@@ -60,18 +65,6 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Firework18&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<br>
-
-## GitHub Trophies 🏆
-
-<br>
-
-
-<br>
-
-## Activity Graph 📊
 
 <br>
 
