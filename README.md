@@ -14,6 +14,17 @@
 
 ---
 
+<!-- Snake game -->
+
+<div align="center">
+  
+![snake gif](https://github.com/Firework18/Firework18/blob/output/github-snake-dark.svg)
+
+</div>
+
+
+---
+
 ## About Me 🚀
 
 - 🎓 Systems Engineering student
